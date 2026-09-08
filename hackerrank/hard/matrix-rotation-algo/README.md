@@ -54,7 +54,7 @@ $1 \le matrix[i][j] \le 10^8 \text{ where }i \in [1 \dots m] \text{ and }j \in [
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-08T04:35:19.184Z  
+**Submitted:** 2026-09-08T04:37:59.374Z  
 
 ```java
 import java.io.*;
