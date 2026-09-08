@@ -49,3 +49,18 @@
 *Last updated: 2026-09-08* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vtu29441/PST-JAVA-WEEK4/tree/master/0867-transpose-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vtu29441/PST-JAVA-WEEK4/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vtu29441/PST-JAVA-WEEK4/tree/master/0867-transpose-matrix) |
+<!---LeetCode Topics End-->
